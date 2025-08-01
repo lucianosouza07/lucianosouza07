@@ -65,7 +65,7 @@ Sou um estudante apaixonado e dedicado de Engenharia de Software na Universidade
 - 📚 Atualmente, estou aprofundando meus conhecimentos em **Ciência de Dados, Machine Learning e IA aplicada**.
 - 🎯 **Meu Objetivo:** Aplicar meus conhecimentos para aprimorar serviços e otimizar fluxos internos organizacionais, visando alcançar uma melhoria mensurável de pelo menos **25% na eficiência** e na qualidade dos processos impactados.
 
-<h2 align="left">Minhas Ferramentas e Tecnologias</h2>
+<h2 align="left">Minhas Ferramentas e Tecnologias:</h2>
 
 ###
 
