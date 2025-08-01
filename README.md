@@ -36,7 +36,7 @@ I am a passionate and dedicated Software Engineering student at the State Univer
 ###
 
 <div align="left">
-<a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/luciano-souza-534476378" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5575999557300" target="_blank">
@@ -88,7 +88,7 @@ Sou um estudante apaixonado e dedicado de Engenharia de Software na Universidade
 ###
 
 <div align="left">
-<a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/luciano-souza-534476378" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5575999557300" target="_blank">
