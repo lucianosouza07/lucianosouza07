@@ -1,37 +1,28 @@
-<div id="header" align="center">
-  <img src="https://i.imgur.com/r6nAVVO.gif" width="150"/>
-</div>
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="https://wa.me/5575999557300" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-    </a>
-    <a href="mailto:contato.lucianosouza37@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-</div>
-
-<h1 align="center">
-  Olá 👋, eu sou o Luciano Souza
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucianosouza07&style=for-the-badge&color=0077b5" alt="luciano-souza"/>
+</p>
 
 ―――――――――――――――――――――――――――――――――――――――――――
 
 ## 🇺🇸 English
 
-<h2 align="left">Hi 👋! I'm a Software Engineering Student and Data & AI enthusiast from Brazil.</h2>
+<h1 align="center">Hi 👋, I'm Luciano Souza</h1>
+<h3 align="center">A Data and Artificial Intelligence enthusiast transforming ideas into solutions.</h3>
 
-### 👨‍💻 About Me
+<h2 align="left">About Me:</h2>
 
-I am a first-semester (2025.1) Software Engineering student at the State University of Bahia (UNEB). My professional focus is on entering and making an impact in the **Data and Artificial Intelligence (AI)** field. I'm keen on applying my knowledge in data science, machine learning, and applied AI to enhance services and optimize organizational workflows, aiming to achieve a measurable improvement of at least **25%** in process efficiency and service quality.
+###
 
-―――――――――――――――――――――――――――――――――――――――――――
+I am a passionate and dedicated Software Engineering student at the State University of Bahia (UNEB), with a strong focus on Data and Artificial Intelligence (AI).
 
-### 🛠️ Languages and Tools
+- ✨ Enthusiastically diving into the world of code since early 2025.
+- 📚 I'm currently deepening my knowledge in **Data Science, Machine Learning, and applied AI**.
+- 🎯 **My Goal:** To apply my skills to enhance services and optimize organizational workflows, aiming for a measurable improvement of at least **25% in the efficiency** and quality of impacted processes.
+- 🎲 **Fun fact:** I believe every process has hidden optimization potential, just waiting to be uncovered by data.
+
+<h2 align="left">Tech Stack & Tools:</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -40,46 +31,50 @@ I am a first-semester (2025.1) Software Engineering student at the State Univers
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-―――――――――――――――――――――――――――――――――――――――――――
+<h2 align="left">Contacts:</h2>
 
-### ✨ Featured Project
+###
 
-<a href="https://lucianosouza07.github.io/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucianosouza07&repo=https://lucianosouza07.github.io/&theme=dracula&hide_border=true&show_owner=true" alt="Portfolio Website Pin" />
+<div align="left">
+<a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-> **Resume Website:** A responsive curriculum website developed with pure HTML/CSS. This project was a practical application to solidify my fundamentals in semantic HTML5 and static front-end development, published via GitHub Pages.
-
-―――――――――――――――――――――――――――――――――――――――――――
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucianosouza07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianosouza07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="https://api.whatsapp.com/send?phone=5575999557300" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="mailto:contato.lucianosouza37@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </div>
 
-―――――――――――――――――――――――――――――――――――――――――――
-<br clear="both">
-<img src="https://raw.githubusercontent.com/lucianosouza07/lucianosouza07/output/snake.svg" alt="Snake animation" />
 ―――――――――――――――――――――――――――――――――――――――――――
 
 ## 🇧🇷 Português (Brasil)
 
-<h2 align="left">Olá 👋! Sou um Estudante de Engenharia de Software e entusiasta de Dados & IA do Brasil.</h2>
+<h1 align="center">Olá 👋, eu sou o Luciano Souza</h1>
+<h3 align="center">Um entusiasta de Dados e Inteligência Artificial transformando ideias em soluções.</h3>
 
-### 👨‍💻 Sobre Mim
+<h2 align="left">Sobre Mim:</h2>
 
-Sou estudante do primeiro semestre (2025.1) do curso de Engenharia de Software (ESO) na Universidade do Estado da Bahia (UNEB). Meu foco profissional está no ingresso e atuação na área de **Dados e Inteligência Artificial (IA)**. Tenho interesse em aplicar conhecimentos em ciência de dados, machine learning e IA para aprimorar serviços e otimizar fluxos organizacionais, visando alcançar uma melhoria mensurável de pelo menos **25%** na eficiência dos processos e na qualidade dos serviços impactados.
+###
 
-―――――――――――――――――――――――――――――――――――――――――――
+Sou um estudante apaixonado e dedicado de Engenharia de Software na Universidade do Estado da Bahia (UNEB), com um foco sólido em Dados e Inteligência Artificial (IA).
 
-### 🛠️ Linguagens e Ferramentas
+- ✨ Mergulhando com entusiasmo no mundo do código desde o início de 2025.
+- 📚 Atualmente, estou aprofundando meus conhecimentos em **Ciência de Dados, Machine Learning e IA aplicada**.
+- 🎯 **Meu Objetivo:** Aplicar meus conhecimentos para aprimorar serviços e otimizar fluxos internos organizacionais, visando alcançar uma melhoria mensurável de pelo menos **25% na eficiência** e na qualidade dos processos impactados.
+- 🎲 **Fato curioso:** Acredito que todo processo tem um potencial de otimização oculto, apenas esperando para ser revelado pelos dados.
+
+<h2 align="left">Minhas Ferramentas e Tecnologias</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -88,21 +83,27 @@ Sou estudante do primeiro semestre (2025.1) do curso de Engenharia de Software (
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-―――――――――――――――――――――――――――――――――――――――――――
+<h2 align="left">Contatos:</h2>
 
-### ✨ Projeto em Destaque
+###
 
-<a href="URL-DO-SEU-PORTFOLIO-AQUI" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucianosouza07&repo=https://lucianosouza07.github.io/&theme=dracula&hide_border=true&show_owner=true&locale=pt-br" alt="Pin do Projeto de Portfólio" />
+<div align="left">
+<a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-> **Website de Currículo:** Website de currículo responsivo desenvolvido com HTML/CSS puro. Projeto prático para consolidar fundamentos de front-end estático e semântica HTML5, com publicação via GitHub Pages.
+<a href="https://api.whatsapp.com/send?phone=5575999557300" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="mailto:contato.lucianosouza37@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</div>
 
 ―――――――――――――――――――――――――――――――――――――――――――
