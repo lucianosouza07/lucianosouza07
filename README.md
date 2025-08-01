@@ -2,8 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=lucianosouza07&style=for-the-badge&color=0077b5" alt="luciano-souza"/>
 </p>
 
-―――――――――――――――――――――――――――――――――――――――――――
-
 ## 🇺🇸 English
 
 <h1 align="center">Hi 👋, I'm Luciano Souza</h1>
