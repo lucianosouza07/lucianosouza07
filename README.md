@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucianosouza07&style=for-the-badge&color=0077b5" alt="luciano-souza"/>
-</p>
-
 ## 🇺🇸 English
 
 <h1 align="center">Hi 👋, I'm Luciano Souza</h1>
@@ -16,7 +12,6 @@ I am a passionate and dedicated Software Engineering student at the State Univer
 - ✨ Enthusiastically diving into the world of code since early 2025.
 - 📚 I'm currently deepening my knowledge in **Data Science, Machine Learning, and applied AI**.
 - 🎯 **My Goal:** To apply my skills to enhance services and optimize organizational workflows, aiming for a measurable improvement of at least **25% in the efficiency** and quality of impacted processes.
-- 🎲 **Fun fact:** I believe every process has hidden optimization potential, just waiting to be uncovered by data.
 
 <h2 align="left">Tech Stack & Tools:</h2>
 
@@ -51,8 +46,9 @@ I am a passionate and dedicated Software Engineering student at the State Univer
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </div>
-
+<br>
 ―――――――――――――――――――――――――――――――――――――――――――
+<br>
 
 ## 🇧🇷 Português (Brasil)
 
@@ -68,7 +64,6 @@ Sou um estudante apaixonado e dedicado de Engenharia de Software na Universidade
 - ✨ Mergulhando com entusiasmo no mundo do código desde o início de 2025.
 - 📚 Atualmente, estou aprofundando meus conhecimentos em **Ciência de Dados, Machine Learning e IA aplicada**.
 - 🎯 **Meu Objetivo:** Aplicar meus conhecimentos para aprimorar serviços e otimizar fluxos internos organizacionais, visando alcançar uma melhoria mensurável de pelo menos **25% na eficiência** e na qualidade dos processos impactados.
-- 🎲 **Fato curioso:** Acredito que todo processo tem um potencial de otimização oculto, apenas esperando para ser revelado pelos dados.
 
 <h2 align="left">Minhas Ferramentas e Tecnologias</h2>
 
@@ -103,5 +98,6 @@ Sou um estudante apaixonado e dedicado de Engenharia de Software na Universidade
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </div>
-
+<br>
 ―――――――――――――――――――――――――――――――――――――――――――
+<br>
