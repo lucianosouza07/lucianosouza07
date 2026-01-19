@@ -10,8 +10,8 @@ I am a passionate and dedicated Software Engineering student at the Universidade
 <h2 align="left">Tech Stack & Tools:</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -35,8 +35,8 @@ I am a passionate and dedicated Software Engineering student at the Universidade
 
 ## Português (Brasil)
 
-<h1 align="center">Ola, Eu sou Luciano Souza</h1>
-<h3 align="center">Um entusiasta de Dados e Inteligencia Artificial transformando ideias em soluções.</h3>
+<h1 align="center">Olá, Eu sou Luciano Souza</h1>
+<h3 align="center">Um entusiasta de Dados e Inteligência Artificial transformando ideias em soluções.</h3>
 
 <h2 align="left">Sobre Mim:</h2>
 
@@ -45,8 +45,8 @@ Sou um estudante apaixonado e dedicado de Engenharia de Software na Universidade
 <h2 align="left">Minhas Ferramentas e Tecnologias:</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
