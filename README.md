@@ -1,7 +1,7 @@
 ## English
 
 <h1 align="center">Hi, I'm Luciano Souza</h1>
-<h3 align="center">A Data and Artificial Intelligence enthusiast transforming ideas into solutions.</h3>
+<h3 align="center">A Data Science and Artificial Intelligence enthusiast transforming ideas into solutions.</h3>
 
 <h2 align="left">About Me:</h2>
 
@@ -36,7 +36,7 @@ I am a passionate and dedicated Software Engineering student at the Universidade
 ## Português (Brasil)
 
 <h1 align="center">Olá, Eu sou Luciano Souza</h1>
-<h3 align="center">Um entusiasta de Dados e Inteligência Artificial transformando ideias em soluções.</h3>
+<h3 align="center">Um entusiasta de Ciência de Dados e Inteligência Artificial transformando ideias em soluções.</h3>
 
 <h2 align="left">Sobre Mim:</h2>
 
